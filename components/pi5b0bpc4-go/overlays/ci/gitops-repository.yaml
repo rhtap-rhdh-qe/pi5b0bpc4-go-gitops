@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pi5b0bpc4-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pi5b0bpc4-go-gitops
